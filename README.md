@@ -4,6 +4,7 @@
 For this challenge, I have created application that employee can use it and genrate random password based on criteria. HTML is used for structure web page and style them using CSS. Javascript is used to generate random password after gathering inputs from users. Specific criteria for password including length between 8-128, lowercase, uppercase, numeric, and/or special characters. Based on selected criteria password is generated on window.
 
 #### How to Get There
+https://vaishaliqa.github.io/Password_Generator_Challenge/
 
 #### Usage
 When User open URL in browser, Initial page should be displayed like below way. Once, User select generate password button then series of prompt executes one by one.
